@@ -34,7 +34,7 @@ public class Ejemplo01 {
         arreglo3[2] = new int[2];
         
         // forma 4
-        int[][] arreglo4 = {{10, 20}, {100, 200, 300}};
+        int[][] arreglo4 = {{10, 20}, {100, 200, 300}}; 
     }
     
 }
