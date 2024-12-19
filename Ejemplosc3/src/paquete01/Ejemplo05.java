@@ -12,6 +12,7 @@ package paquete01;
 public class Ejemplo05 {
 
     /**
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
@@ -33,7 +34,7 @@ public class Ejemplo05 {
                 
             }
         }
-        System.out.printf("Suma de valores del arreglo: %d\n", suma);
+        System.out.printf("su valor es: %d\n", suma);
     }
     
 }

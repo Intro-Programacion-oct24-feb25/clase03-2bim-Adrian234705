@@ -18,7 +18,7 @@ public class Ejemplo10 {
      */
     public static void main(String[] args) {
         // Creación de arreglo bidimensionales
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in); //para pedir datos por teclado 
         // int[][] arreglo1 = {{-10, 41, 40}, {1, -2, -3}, {6, 8, -9}};
         int[][] arreglo1 = new int[3][3];
         int valorIngresado;
